@@ -1,5 +1,5 @@
 	
-	#########TIC [D[D[D[D TIC TAC TOE game #########
+	######### TIC TAC TOE game #########
 	
 	Command Line Based Tic Tac Toe Game Using Python
 	
